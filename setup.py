@@ -36,5 +36,4 @@ setup(
             "wikiextractor = wikiextractor.WikiExtractor:main"
             ]
         },
-    python_requires='>=3.6',
 )
